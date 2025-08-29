@@ -9,6 +9,6 @@ airflow_docker/
 ├── logs/                   # Логи задач 
 ├── plugins/                # Кастомные плагины
 ├── config/                 # airflow.cfg для конфигурации 
-├── .env                    # Переменные окружения 
+├── .env.example            # Переменные окружения 
 └── docker-compose.yml      # Основной файл запуска
 ```
