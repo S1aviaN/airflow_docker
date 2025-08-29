@@ -4,10 +4,10 @@
 
 ## 📦 Структура проекта
 
-airflow-docker-setup/
+```airflow-docker-setup/
 ├── dags/                   # DAG-файлы 
 ├── logs/                   # Логи задач 
 ├── plugins/                # Кастомные плагины
 ├── config/                 # airflow.cfg для конфигурации 
 ├── .env                    # Переменные окружения 
-└── docker-compose.yml      # Основной файл запуска
+└── docker-compose.yml      # Основной файл запуска```
